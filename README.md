@@ -10,8 +10,8 @@ Data Augmentation For Object Detection using Pytorch and PIL (image from VOC dat
 * [x] Random crop
 * [x] Zoom out (expand image)
 * [x] Rotate only bouding box (optional)
-* [] Mixup
-* [] Cutout
-* [] CutMix
-* [] Mosaic
+* [ ] Mixup
+* [ ] Cutout
+* [ ] CutMix
+* [ ] Mosaic
 I wrote a repo: [Implementation of Single Shot MultiBox Detector (SSD)](https://github.com/anhtuan85/Pytorch-SSD-from-scratch) using some data augmentation strategies. Check it out!
