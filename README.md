@@ -10,8 +10,8 @@ Data Augmentation For Object Detection using Pytorch and PIL (image from VOC dat
 * [x] Random crop
 * [x] Zoom out (expand image)
 * [x] Rotate only bouding box (optional)
+* [x] Cutout
 * [ ] Mixup
-* [ ] Cutout
 * [ ] CutMix
 * [ ] Mosaic
 
